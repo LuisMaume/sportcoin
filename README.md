@@ -1,0 +1,2 @@
+# sportcoin
+cybercoin for sports
